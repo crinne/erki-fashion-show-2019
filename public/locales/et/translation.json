@@ -1,0 +1,66 @@
+{
+  "big-title": {
+    "title1": "ERKI",
+    "title2": "MOESHOW",
+    "title4": 2019,
+    "register": "Registreeri"
+  },
+  "rules": {
+    "main-info": {
+      "header": "ERKI Moeshow 2019 konkursi reglement",
+      "paragraph-1": "Kollektsioonid, mis pääsevad ERKI Moeshow 2019 lavale, valitakse välja kõikide õigeaegselt esitatud ning reglemendile vastavate konkursitööde seast. Edasipääsu otsustab korraldustiimi poolt määratud žürii.",
+      "paragraph-2": "Konkursile on oodatud kandideerima loomeinimesed, kes on lõpetanud keskkooli ning on hetkel registreeritud ülikooli/ametikooli/kõrgkooli õpilasena. Osavõtja võib olla nii kutsehariduse, BA kui ka MA tasemel õppija. Konkursi reglement annab loa kandideerida ka neil, kes on oma õpingud 3 aastat tagasi lõpetanud (viimane kaasa arvatud). Korraldustiimil on luba reglemendis teha ka vajalikke mööndusi.",
+      "paragraph-3": "Osaleda on lubatud nii meeskonnal kui ka individuaalselt."
+    },
+    "first-rule": {
+      "paragraph": "Reglement ei piira autori kollektsiooni teemat ega teostuse viise. Autorile jääb õigus esitada oma kollektsioon vabalt valitud vormis. Kollektsioonide autoritel on kohustus kinni pidada alljärgnevatest reeglitest:",
+      "bullet-point-1": "Kollektsioon peab koosnema vähemalt viiest ja maksimaalselt kaheteistkümnest komplektist.",
+      "bullet-point-2": "Kollektsiooni igast komplektist peab olema joonis nii eest- kui tagantvaates A4 formaadis paberil. Komplektid tuleb nummerdada vastavalt moelaval esitatavale järjekorrale.",
+      "bullet-point-3": "Kollektsioon tuleb esitada rahvusvahelise žürii jaoks online platvormil (faili maksimum suurus 20 MB) ning kohaliku žürii jaoks paberil.",
+      "bullet-point-4": "Materjalinäidised tuleb lisada kas omaette lehele või vastava joonise juurde (näidise ligikaudsed mõõdud - 3x3cm).",
+      "bullet-point-5": "Kollektsiooni komplektidest vähemalt üks peab olema teostatud ning esitatud nii joonisena kui ka fotona.",
+      "bullet-point-6": "Töö kirjalik osa peab olema inglise keeles.",
+      "bullet-point-7": "Laval esitlusele minev kollektsioon peab vastama žüriile esitatud joonistele, kirjeldustele ning ideedele."
+    },
+    "second-rule": {
+      "paragraph": "Lisaks kollektsiooni piltidele tuleb eraldi esitada trükitud ja välja prinditud A4 lehel:",
+      "bullet-point-1": "kollektsiooni pealkiri,",
+      "bullet-point-2": "lühike kokkuvõtte inspiratsioonist,",
+      "bullet-point-3": "vajadusel teostuse detailid, lisainfo."
+    },
+    "secondary-info": {
+      "paragraph": "Mitte ühelgi eelmainitud lehel/mapil/ümbrikul/digitaalsel failil, millega konkursitöö esitatakse, EI TOHI olla ühtegi viidet kollektsiooni autoritele (nimi, logo, signatuur jne). Juhul, kui kollektsioonis kasutatakse autori nime või signatuuri, siis kasutada blur efekti või asendada see millegi muuga. Konkursitööd vaadatakse enne žürii ette jõudmist korraldusmeeskonna poolt üle, reeglite vastu eksinud tööd diskvalifitseeritakse."
+    },
+    "third-rule": {
+      "paragraph": "Kollektsiooni autori või autorite andmed tuleb lisada eraldi kinnises ümbrikus, kus peab olema kirjas:",
+      "bullet-point-1": "kollektsiooni pealkiri,",
+      "bullet-point-2": "kollektsiooni autor või autorid (kui neid on mitu, tuua eraldi välja üks, kes oleks teie kontaktisik ning nimedele lisama isikute sünnikuupäevad),",
+      "bullet-point-3": "kontaktisiku e-mail,",
+      "bullet-point-4": "kontaktisiku telefoni number,",
+      "bullet-point-5": "õppeasutus, kus õpite või õppisite koos õppeaasta ja erialaga."
+    }
+  },
+  "general-info": {
+    "start-submitting": "Tööde vastuvõtt algab 15. märtsil.",
+    "dealine": "KONKURSI TÄHTAEG: 11. märts kell 17:00.",
+    "final-draft": "Tööd tuleb esitada järgmisele aadressile:",
+    "full-aadress": "Põhja puiestee 7, Tallinn, 10412, Eesti,",
+    "school-lobby": "Eesti Kunstiakadeemia fuajees asuvasse valvelauda või postiga saates",
+    "info": "Edasipääsenute nimed avalikustatakse hiljemalt 16. märtsil 2019 ERKI Moeshow kodulehel ning autoritega võetakse personaalselt ühendust. Edasipääsenud kollektsioonide kavandid ei kuulu tagastamisele.",
+    "additional-info": "Lisainfo: erki.moeshow@artun.ee"
+  },
+  "contact": {
+    "school": "Estonian Academy of Arts",
+    "address": "Pōhja puiestee 7",
+    "town": "Tallinn",
+    "zip-code": 10412,
+    "email": "erki.moeshow@artun.ee"
+  },
+  "countdown": {
+    "title": "Registreerimine lōppeb",
+    "day": "päevad",
+    "hour": "tunnid",
+    "min": "min",
+    "sec": "sek"
+  }
+}

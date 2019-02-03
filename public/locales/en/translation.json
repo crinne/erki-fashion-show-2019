@@ -1,0 +1,67 @@
+{
+  "big-title": {
+    "title1": "ERKI",
+    "title2": "FASHION",
+    "title3": "SHOW",
+    "title4": 2019,
+    "register": "Register"
+  },
+  "rules": {
+    "main-info": {
+      "header": "ERKI Fashion Show 2019 Rules and Regulations",
+      "paragraph-1": "The collections to be presented on the stage of ERKI Fashion Show 2019 are picked from all the competing designs submitted in time, which conform to the rules and regulations. A jury appointed by the organising team shall be the one to make the decision.",
+      "paragraph-2": "All creative people, who have graduated from secondary school and are currently enrolled in universities, vocational schools or institutions of higher education, are invited to take part in the competition. Participants may be students at the level of vocational education, Bachelor's or Masters study. The rules also allow those creative minds, who have completed their studies up to and including 3 years ago, to participate in the competition. The organising team serves the right to introduce necessary exemptions to these rules and regulations,",
+      "paragraph-3": "Designers can participate both individually or in teams."
+    },
+    "first-rule": {
+      "paragraph": "The rules neither limit the topics of collections nor the ways of implementation. The designers serve the right to submit their collection in a form freely chosen. The designers shall comply with the following rules:",
+      "bullet-point-1": "The collection consists of at least five and up to twelve outfits.",
+      "bullet-point-2": "Sketches of each of the outfits (both front and back view) must be presented on separate A4 sheets. The designs shall be numbered according to the order these are presented on the catwalk.",
+      "bullet-point-3": "The collection must be submitted via an online platform (maximum file size 20 MB) to be presented to the international jury and on paper to the local jury.",
+      "bullet-point-4": "Material samples shall be attached to a separate sheet or to the respective drawing (approximate sample dimensions 3 x 3 cm).",
+      "bullet-point-5": "At least one of the designs in the collection must be created and presented both as a drawing and as a photo.",
+      "bullet-point-6": "The written part of the collection must be in English.",
+      "bullet-point-7": "The collection to be presented on stage must be consistent with the drawings, descriptions and ideas presented to the jury."
+    },
+    "second-rule": {
+      "paragraph": "In addition to the collection photos, the following shall be submitted, printed on A4 sheet:",
+      "bullet-point-1": "Title of the collection;",
+      "bullet-point-2": "A brief summary of inspiration,",
+      "bullet-point-3": "Details and additional information regarding the work and its implementation, if necessary."
+    },
+    "secondary-info": {
+      "paragraph": "Any sheets, folders, envelopes or digital files to be submitted to the competition as specified above MAY NOT bear any reference to the designer(s) of the collection (name, logo, signature, etc.). If the collection uses the name or signature of the designer, please use the blur effect or replace it with something else. Before presented to the jury, the works submitted to the competition shall firstly be checked by the organising team, any works not conforming to the rules will be disqualified."
+    },
+    "third-rule": {
+      "paragraph": "The data of the designer(s) of the collection are to be submitted in a separate sealed envelope, which shall contain the following:",
+      "bullet-point-1": "Title of the collection;",
+      "bullet-point-2": "Designer(s) of the collection (if there is more than one, please point out one to act as your contact person, and make sure to add dates of birth to the names);",
+      "bullet-point-3": "Email of the contact person;",
+      "bullet-point-4": "Telephone number of the contract person;",
+      "bullet-point-5": "Education institution where the designer(s) study/studied together with the academic year and the area of specialisation."
+    }
+  },
+  "general-info": {
+    "start-submitting": "The designers can start submitting their work on 15. March.",
+    "dealine": "APPLICATION DEADLINE: 11 March at 5 p.m.",
+    "final-draft": "Final drafts are to be submitted by post to the following address:",
+    "full-aadress": "Põhja puiestee 7, Tallinn, 10412, Eesti,",
+    "school-lobby": "or delivered to the reception desk in the lobby of the Estonian Academy of Arts.",
+    "info": "The designers picked out will be disclosed on the website of ERKI Fashion Show no later than on 16. March 2019, and they will be contacted personally. Any drafts submitted to the competition shall not be returned.",
+    "additional-info": "Additional information: erki.moeshow@artun.ee"
+  },
+  "contact": {
+    "school": "Estonian Academy of Arts",
+    "address": "Pōhja puiestee 7",
+    "town": "Tallinn",
+    "zip-code": 10412,
+    "email": "erki.moeshow@artun.ee"
+  },
+  "countdown": {
+    "title": "Registration ends",
+    "day": "days",
+    "hour": "hours",
+    "min": "min",
+    "sec": "sec"
+  }
+}
